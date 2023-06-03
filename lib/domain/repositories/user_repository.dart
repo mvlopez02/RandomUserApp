@@ -16,8 +16,11 @@ class UserRepository {
   // TODO
   // Aquí debemos obtener una instancia de RandomUser del remoteDataSource
   // y pasarla al localDataSource
+
   Future<bool> getUser() async {
-    return Future.value(true);
+    RandomUser user = await remoteDataSource.getUser();
+    await localDataSource.addUser(user);
+    return true;
   }
 
   Future<List<RandomUser>> getAllUsers() async =>

@@ -4,7 +4,7 @@ import '../../domain/entities/random_user.dart';
 import '../../domain/use_case/users.dart';
 
 class UserController extends GetxController {
-  var _users = <RandomUser>[].obs;
+  final _users = <RandomUser>[].obs;
   Users userUseCase = Get.find();
 
   List<RandomUser> get users => _users;

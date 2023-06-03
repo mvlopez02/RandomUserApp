@@ -1,4 +1,4 @@
-package com.example.f_local_database_sqlite_template
+package com.example.random_user_app
 
 import io.flutter.embedding.android.FlutterActivity
 
