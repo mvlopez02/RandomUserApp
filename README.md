@@ -6,8 +6,7 @@ Implementar:
 - UserRepository
 
 
-
-<img src="videoprueba_random_user.webm" width="300" />
+![Video Prueba](https://github.com/mvlopez02/RandomUserApp/blob/e28c3b8dcfcd9b1a96bafd3dea05d6cf1ab04798/videoprueba_random_user.webm)
 
 Implementación en: https://github.com/augustosalazar/f_local_database_sqlite
 
