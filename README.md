@@ -7,7 +7,7 @@ Implementar:
 
 
 
-<img src="https://user-images.githubusercontent.com/4458129/178789236-ba1f46e6-8765-4e5a-95d2-ef565ac6d00e.gif" width="300" />
+<img src="videoprueba_random_user.webm" width="300" />
 
 Implementación en: https://github.com/augustosalazar/f_local_database_sqlite
 
