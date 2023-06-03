@@ -5,8 +5,7 @@ Implementar:
 - UserLocalDataSource con los métodos sqflite (recordar el uso de await con métodos que retornan un futuro)
 - UserRepository
 
-
-![Video Prueba](https://github.com/mvlopez02/RandomUserApp/blob/e28c3b8dcfcd9b1a96bafd3dea05d6cf1ab04798/videoprueba_random_user.webm)
+<img src="https://github.com/mvlopez02/RandomUserApp/blob/a7cd7d36869ea2b7b108680f0e8a2478574f8953/videoprueba_random_user.gif" width="300" />
 
 Implementación en: https://github.com/augustosalazar/f_local_database_sqlite
 
